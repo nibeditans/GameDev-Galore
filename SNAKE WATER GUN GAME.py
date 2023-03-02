@@ -43,7 +43,3 @@ if score >= 5:
 
 else:
     print("Nice try dude, play well next time! ")
-
-
-
-
