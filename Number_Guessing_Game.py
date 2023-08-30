@@ -11,7 +11,7 @@ while play_again == 'yes':
 
     # ask the user to guess the number
     print("Guess the number between 1 and 100.")
-    print("Before playing remember than you have only", num_guesses_allowed, "guesses. \nPlay well Dude:)")
+    print("Before playing remember that you have only", num_guesses_allowed, "guesses. \nPlay well Dude:)")
     guess = int(input("Enter your guess: "))
 
     # keep track of the number of guesses
